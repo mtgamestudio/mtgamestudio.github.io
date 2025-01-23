@@ -1790,7 +1790,7 @@ body.search-visible{
 
 .banner-carousel .content-box{
 	position: relative;
-	height: 780px;
+	height: 500px;
 	width: 100%;
 	display: table;
 	vertical-align: middle;
@@ -4470,6 +4470,12 @@ body.search-visible{
 	padding: 85px 0px 80px;
 	text-align: center;
 	color: #ffffff;
+}
+
+.privacy-content{
+	position:relative;
+	padding: 65px 250px 80px;
+	text-align: center;
 }
 
 .main-footer:before{
