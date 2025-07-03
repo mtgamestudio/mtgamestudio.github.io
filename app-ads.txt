@@ -1272,3 +1272,18 @@ sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
 adsinteractive.com, 39993, RESELLER
 adingo.jp, 32534, RESELLER
+toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
+vidoomy.com, 7646534, RESELLER
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
+smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
+onetag.com, 82e44d118b79600, RESELLER
+admatic.com.tr, adm-pub-3033566192, RESELLER, uufps1dh5stc6euk
+smaato.com, 1100057546, RESELLER, 07bcf65f187117b4
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
+improvedigital.com, 2602, RESELLER
+improvedigital.com, 2603, RESELLER
+criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
+criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
+bidmachine.io, 98, RESELLER
+smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
