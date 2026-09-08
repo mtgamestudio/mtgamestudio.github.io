@@ -1980,5 +1980,6 @@ lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
 verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 bigo.sg, adidz3dyfp, RESELLER
+copper6.com, 766114, RESELLER
 
 #end unity ads
